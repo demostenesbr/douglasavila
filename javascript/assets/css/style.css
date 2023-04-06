@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
+  background-color: transparent;
+  color: #000000;
+}
+
+p {
+  background-color: transparent;
+  color: #333666;
+}
+
+.poll {
+  background-color: background-gradient(navy, rgba(188, 235, 255, 0.));
+  display: inline-block;
+}
